@@ -1,6 +1,7 @@
 # DebianSwitcher
-(Base Ainu) This Is Debian's Switcher
+This Switcher is Debian Switcher.
+This Source is Based Ainu
 
-> // >w< //
+(\ >w< /)
 
 Im So lonely
