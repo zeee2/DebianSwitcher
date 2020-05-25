@@ -1,0 +1,2 @@
+F:\Switcher\DebianSwitcher\DebianSwitcher\bin\Release\DebianSwitcher.exe
+F:\Switcher\DebianSwitcher\DebianSwitcher\bin\Release\DebianSwitcher.pdb
